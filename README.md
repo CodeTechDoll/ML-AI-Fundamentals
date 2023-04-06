@@ -1,6 +1,6 @@
 # Becoming a Machine Learning and AI Expert: Lesson Plan
 
-This comprehensive lesson plan is designed to guide an accomplished software engineer with basic knowledge of machine learning (ML) and Python through the process of becoming a machine learning and artificial intelligence (AI) expert.
+This comprehensive lesson plan is designed to guide an aspiring machine learning and AI expert through the process of learning the core concepts, techniques, and applications of this exciting field. It is structured into ten main sections, each containing related sub-concepts and hands-on coding exercises. In addition, it includes evaluation and reflection segments to reinforce understanding and encourage critical thinking.
 
 ## Overview
 
