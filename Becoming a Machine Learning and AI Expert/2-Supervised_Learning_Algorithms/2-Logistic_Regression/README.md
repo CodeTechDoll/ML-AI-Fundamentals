@@ -13,7 +13,7 @@ Logistic regression is widely used in various domains, including but not limited
 
 ## Training and Evaluation
 
-Training a logistic regression model involves finding the coefficients that maximize the likelihood of observing the given data. This is typically achieved by minimizing the cross-entropy loss, which is a measure of the difference between the predicted probabilities and the actual class labels. The optimization can be done using various techniques, such as gradient descent or more advanced optimization algorithms like L-BFGS or Newton-Raphson.
+Training a logistic regression model involves finding the coefficients that maximize the likelihood of observing the given data. This is typically achieved by minimizing the `cross-entropy loss`, which is a measure of the difference between the predicted probabilities and the actual class labels. The optimization can be done using various techniques, such as gradient descent or more advanced optimization algorithms like L-BFGS or Newton-Raphson.
 
 To evaluate the performance of a logistic regression model, you can use evaluation metrics such as accuracy, precision, recall, F1-score, or area under the receiver operating characteristic (ROC) curve.
 
